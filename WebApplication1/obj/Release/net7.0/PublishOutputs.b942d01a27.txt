@@ -1,0 +1,12 @@
+/Users/fatihmandirali/Desktop/untitled folder/WebApplication1
+/Users/fatihmandirali/Desktop/untitled folder/appsettings.Development.json
+/Users/fatihmandirali/Desktop/untitled folder/appsettings.json
+/Users/fatihmandirali/Desktop/untitled folder/WebApplication1.dll
+/Users/fatihmandirali/Desktop/untitled folder/WebApplication1.deps.json
+/Users/fatihmandirali/Desktop/untitled folder/WebApplication1.runtimeconfig.json
+/Users/fatihmandirali/Desktop/untitled folder/WebApplication1.pdb
+/Users/fatihmandirali/Desktop/untitled folder/Microsoft.AspNetCore.OpenApi.dll
+/Users/fatihmandirali/Desktop/untitled folder/Microsoft.OpenApi.dll
+/Users/fatihmandirali/Desktop/untitled folder/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fatihmandirali/Desktop/untitled folder/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fatihmandirali/Desktop/untitled folder/Swashbuckle.AspNetCore.SwaggerUI.dll

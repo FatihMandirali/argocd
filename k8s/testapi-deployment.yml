@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: testapi
+  namespace: argocd
+spec: 
+  selector:
+    matchLabels:
+      app: testapi
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: testapi
+    spec:
+      containers:
+        - name: testapi
+          image: fthmndrli/argocd-v1.0.0
+          env:
+           - name: ASPNETCORE_APPREQUIREHOST
+             value: "*:5007"
+           - name: ASPNETCORE_URLS
+             value: "http://*:5007"
+           - name: TZ
+             value: "Turkey"
+          ports:
+            - containerPort:  5007
