@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: testapi
-          image: fthmndrli/argocd-v1.0.0
+          image: fthmndrli/argocd-v1.0.1
           env:
            - name: ASPNETCORE_APPREQUIREHOST
              value: "*:5007"
